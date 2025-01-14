@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1736859703 source:c:\users\user\onedrive\bureau\k\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../c.h"
+
+1736854828 c:\users\user\onedrive\bureau\k\a\car.h
+
+1736859715 source:c:\users\user\onedrive\bureau\k\a\voiteur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../c.h"
+
+1736859681 c:\users\user\onedrive\bureau\k\c.h
+
